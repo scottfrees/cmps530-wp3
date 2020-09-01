@@ -5,10 +5,7 @@ This week we are using the same project from last week's analysis of movie data 
 - Instead of working on the project as one long executable script, use a Jupyter notebook, and separate your data loading/cleaning/organizing, and each analysis, into individual cells.
 - Instead of outputting to CSV files, display results in Jupyter instead, as nicely formatted tables
   - You can leave out tags when outputting the results of the last analysis (frequently rated movies), since those are so lengthy.
-  - Skip outputting JSON in the frequently rated movies as well.
-
-*This project is not graded*
-
+  
 ## The Data
 The same data is used for this project as last week's.  DVC is already set up for you - just do a typical `dvc pull`.
 
